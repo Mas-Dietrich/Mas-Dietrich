@@ -1,4 +1,12 @@
-### Hi there 👋
+Howdy! I'm
+# Mason Dietrich 🤠
+
+About Me
+------
+- 📚 I'm a senior at Utah Valley University studying Web Design and Development with a focus in Web and App Development!
+-  🏢 I'm currently working full time as a Web Developer at [Sixth Media](https://www.sixthmedia.com)!
+- 👨‍👩‍👧 I'm a husband and father-to-be with a baby girl coming this year!
+- 🏀 I  love basketball, lacrosse, and lifting weights!
 
 <!--
 **Mas-Dietrich/Mas-Dietrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
