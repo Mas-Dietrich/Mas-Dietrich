@@ -1,35 +1,68 @@
-Howdy! I'm
-# Mason Dietrich 🤠
+# Mason Dietrich
 
-About Me
-------
-- 📚 I'm a senior at Utah Valley University studying Web Design and Development with a focus in Web and App Development!
--  🏢 I'm currently working full time as a Web Developer at [Sixth Media](https://www.sixthmedia.com)!
-- 👨‍👩‍👧 I'm a husband and father-to-be with a baby girl coming this year!
-- 🏀 I  love basketball, lacrosse, and lifting weights!
+**Web Developer | Shopify Front-End | UI/UX**
 
-My Stack
-------
-I'm particularly passionate about front-end development, these are some of the languages I've been really loving lately!
-| Languages + Frameworks | Why I'm a fan |
-|----------:|-----|
-|JavaScript|It's the root of all I know!|
-|SvelteKit|I'm astonished at how simple complex things can be with SvelteKit!|
-|PHP|Working as a WordPress developer at my job, I've been diving deeper into what makes things work in WordPress!|
-|Tailwind|The amount of extra sleep I've been given because of the power of Tailwind is unreal.|
-|3JS|I never imagined I would be able to work with things like 3D models, but 3JS has made me feel unstoppable!|
-|MongoDB|It has been such a nice way for me to get my toes in the water in the world of back-end and full-stack!|
-<!--
-**Mas-Dietrich/Mas-Dietrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Mason — a Web Developer based in Kaysville, Utah. I graduated from Utah Valley University with a degree in Web Design and Development, and I'm currently at [Just Ingredients](https://justingredients.com), where I focus on building, refining, and shipping everything that touches our Shopify Plus storefront.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💼 Web Developer at Just Ingredients since 2024
+- 🛒 Day-to-day: landing pages, component development, and ongoing UI/UX improvements across our Shopify Plus storefront
+- 🎓 UVU graduate — Web Design and Development, emphasis in Web and App Development
+- 🤖 Continuously curious about web development and the evolving role of AI in it
+- 👨‍👩‍👧 Husband and dad
+- 🏀 Basketball, lacrosse, and lifting outside of work
+
+---
+
+## Tech Stack
+
+### Front-End
+JavaScript • React • Next.js • SvelteKit
+
+### E-Commerce
+Shopify Plus • Liquid
+
+### Styling
+SCSS • Tailwind CSS • Bootstrap
+
+### Back-End & Other
+PHP • MongoDB • Three.js
+
+### AI in My Workflow
+I use AI as a daily collaborator and as an area I'm actively exploring — for accelerating development, prototyping ideas, and learning where the tooling is headed. Currently working with **Claude**, **ChatGPT**, **Gemini**, and **Grok**.
+
+---
+
+## Tech Stack (Badges Version)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify_Plus-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-00A89D?style=for-the-badge&logo=shopify&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+**AI Tools I Work With**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+
+---
+
+## Let's Connect
+
+Always happy to chat about web development, AI, or interesting projects.
+
+- 🌐 [masondietrich.com](https://masondietrich.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/masondietrich/)
