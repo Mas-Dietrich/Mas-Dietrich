@@ -2,7 +2,7 @@
 
 **Web Developer | Shopify Front-End | UI/UX**
 
-Hey, I'm Mason — a Web Developer based in Kaysville, Utah. I graduated from Utah Valley University with a degree in Web Design and Development, and I'm currently at [Just Ingredients](https://justingredients.com), where I focus on building, refining, and shipping everything that touches our Shopify Plus storefront.
+Hey, I'm Mason — a Web Developer based in Kaysville, Utah. I graduated from Utah Valley University with a degree in Web Design and Development, and I'm currently at [Just Ingredients](https://justingredients.us), where I focus on building, refining, and shipping everything that touches our Shopify Plus storefront.
 
 ---
 
@@ -17,27 +17,10 @@ Hey, I'm Mason — a Web Developer based in Kaysville, Utah. I graduated from Ut
 
 ---
 
-## Tech Stack
-
-### Front-End
-JavaScript • React • Next.js • SvelteKit
-
-### E-Commerce
-Shopify Plus • Liquid
-
-### Styling
-SCSS • Tailwind CSS • Bootstrap
-
-### Back-End & Other
-PHP • MongoDB • Three.js
-
-### AI in My Workflow
-I use AI as a daily collaborator and as an area I'm actively exploring — for accelerating development, prototyping ideas, and learning where the tooling is headed. Currently working with **Claude**, **ChatGPT**, **Gemini**, and **Grok**.
-
----
-
 ## Tech Stack (Badges Version)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
