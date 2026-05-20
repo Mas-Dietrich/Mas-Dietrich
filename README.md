@@ -2,7 +2,7 @@
 
 **Web Developer | Shopify Front-End | UI/UX**
 
-Hey, I'm Mason — a Web Developer based in Kaysville, Utah. I graduated from Utah Valley University with a degree in Web Design and Development, and I'm currently at [Just Ingredients](https://justingredients.us), where I focus on building, refining, and shipping everything that touches our Shopify Plus storefront.
+Hey, I'm Mason — a Web Developer based in Kaysville, Utah. I graduated from Utah Valley University with a degree in Web Design and Development, and I'm currently at [Just Ingredients](https://justingredients.com), where I focus on building, refining, and shipping everything that touches our Shopify Plus storefront.
 
 ---
 
@@ -31,6 +31,8 @@ Hey, I'm Mason — a Web Developer based in Kaysville, Utah. I graduated from Ut
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
